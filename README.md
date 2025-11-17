@@ -6,7 +6,7 @@
 - 🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[gillen82]&theme=github_dark" alt="[gillen82]'s GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gillen82&theme=github_dark" alt="gillen82's GitHub Stats" />
 </div>
 
 
