@@ -1,6 +1,10 @@
 <h1 align="center">Hello... 👋</h1>
 
-<p>I'm Stevie, a learner from Ireland 🍀</p>
+<div align="center">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
+
+<p align="center">I'm Stevie, a learner from Ireland 🍀</p>
 
 🌍 : Currently exploring the world of programming </br>
 🐞 : Creating bugs to feed the birds </br>
@@ -12,8 +16,7 @@
 </div>
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gillen82&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gillen82&theme=dark&hide_border=false)<br/>
