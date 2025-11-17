@@ -1,9 +1,9 @@
 # _Hello, I'm Stephen 👋_
 
-- 🌍 : Currently exploring the world of programming 
-- 🥷🏻 : Self-taught in Javascript and Python
-- 📋 : Currently working on 100 Days of Python (Angela Yu - Udemy)
-- 🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻)
+🌍 : Currently exploring the world of programming </br>
+🥷🏻 : Self-taught in Javascript and Python </br>
+📋 : Currently working on 100 Days of Python (Angela Yu - Udemy) </br>
+🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻) </br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gillen82&theme=github_dark" alt="gillen82's GitHub Stats" />
