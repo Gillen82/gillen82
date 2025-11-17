@@ -1,11 +1,13 @@
-# _Hello, I'm Stephen 👋_
+<h1 align="center">Hello... 👋</h1>
+
+<p>I'm Stevie, a learner from Ireland 🍀</p>
 
 🌍 : Currently exploring the world of programming </br>
-🥷🏻 : Self-taught in Javascript and Python </br>
-📋 : Currently working on 100 Days of Python (Angela Yu - Udemy) </br>
+🐞 : Creating bugs to feed the birds </br>
+📚 : Currently working on 100 Days of Python (Angela Yu - Udemy) </br>
 🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻) </br>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gillen82&theme=github_dark" alt="gillen82's GitHub Stats" />
 </div>
 
