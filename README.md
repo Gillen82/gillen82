@@ -5,7 +5,9 @@
 - 📋 : Currently working on 100 Days of Python (Angela Yu - Udemy)
 - 🤞🏻 : Would love to learn nore about AI/ML (baby steps first 👶🏻)
 
-[![Stevie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gillen82)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[gillen82]&theme=github_dark" alt="[gillen82]'s GitHub Stats" />
+</div>
 
 
 # 💻 Tech Stack:
